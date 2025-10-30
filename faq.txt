@@ -1,0 +1,2 @@
+# Ideas
+Cache frequently accessed metadata in application memory
